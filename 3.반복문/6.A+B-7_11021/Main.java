@@ -21,21 +21,3 @@ public class Main {
         return c;
     }
 }
-
-
-
-
-
-// 5
-// 1 1
-// 2 3
-// 3 4
-// 9 8
-// 5 2
-
-// Case #1: 2
-// Case #2: 5
-// Case #3: 7
-// Case #4: 17
-// Case #5: 7
-
