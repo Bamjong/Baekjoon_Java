@@ -7,17 +7,14 @@ public class Main {
         int star = sc.nextInt();
 
         for (int i = 0; i < star; i++) {
-            for (int e = star; e > 0; e--) {
+            for (int e = 1; e < star-i; e++) {
                 System.out.print(" ");
-                
             }
-            for (int j = -1; j < i; j++) {
+            for (int j = 0; j <= i; j++) {
                 System.out.print("*");
             }
             System.out.println();
         }
-
-
         sc.close();
     }
 }
