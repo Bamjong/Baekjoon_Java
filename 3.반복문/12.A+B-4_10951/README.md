@@ -1,11 +1,11 @@
 이번 문제에서 총 두번틀렸는데
-
+---
 1. while문 안에 sc.close(); 를 적어버려
     런타임 에러 (IllegalState) 가 떠버렸고
 
 2. while조건을 true로 적어버려
 런타임 에러 (NoSuchElement) 가 떠버렸다.
-
+---
 sc.hasNextInt를 왜 적어야하는지 알게된 글이다
 
 [출처](https://cordingdiary.tistory.com/45)
