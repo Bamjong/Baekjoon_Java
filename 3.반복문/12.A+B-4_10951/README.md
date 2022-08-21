@@ -1,5 +1,5 @@
 이번 문제에서 총 두번틀렸는데
-
+</br>
 
 
 1. while문 안에 sc.close(); 를 적어버려 런타임 에러 (IllegalState) 가 떠버렸다.
